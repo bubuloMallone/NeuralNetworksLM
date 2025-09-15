@@ -5,6 +5,15 @@ The goal of this project is **educational**: to build neural networks and traini
 
 ---
 
+## Acknowledgments and Learning Resources
+
+This work is inspired by **Andrej Karpathy’s lecture series**:  
+**Neural Networks: Zero to Hero** : [https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ]
+
+The code here follows the concepts and pedagogical approaches from the lectures, with additional notes for learning purposes.
+
+---
+
 ## 📂 Repository Contents
 
 1. **Basic Neural Networks and Backpropagation**
